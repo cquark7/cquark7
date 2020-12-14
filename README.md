@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Deepankar! 
 
-I'm a software engineer by profession, and an armchair philosopher by heart 🌍
+I'm a software engineer by profession, and a philosopher by heart 🌍
 
 My expertise is in Data Science, DevOps & Full-Stack Python Development 🐍
 
