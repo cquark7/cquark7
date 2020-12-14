@@ -2,7 +2,7 @@
 
 I'm a software engineer by profession, and an armchair philosopher by heart 🌍
 
-My expertise is in Data Science, DevOps & Python 🐍
+My expertise is in Data Science, DevOps & Full-Stack Python Development 🐍
 
 I'm currently in love with Investing and cybersecurity 🤓 
 
