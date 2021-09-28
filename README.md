@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Deepankar! 
 
-I'm a software engineer by profession, and an adventurer by heart 🌍
+I'm a software engineer by profession, and a philomath by heart 🌍
 
-My expertise is in Data Science, DevOps & Full-Stack Python Development 🐍
+My expertise is in Full-Stack Development 🐍, DevOps & Data Science.
 
-I'm currently in love with Investing and cybersecurity 🤓 
+I'm currently in love with Investing and blockchain technology 🤓 
 
 Sometimes I do Django and React ⚛️
 
