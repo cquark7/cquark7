@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Deepankar! 
 
-I'm a software engineer by profession, and a philomath by heart 🌍
+I'm a passionate software engineer by profession, specialised in backend development using Python 🐍.
 
-My experience is in Full-Stack Development 🐍, DevOps & Data Science.
+I create amazing web applications to make the internet a better and more secure place 🔐. 
 
-I'm currently in love with Investing and blockchain technology 🤓 
+I'm currently in love with investing and cybersecurity 🤓.
 
-Sometimes I do Django and React ⚛️
+These days I am dabbling with Hasura (GraphQL), Next.js and Typescript ⚛️.
 
-Reach out to me at hi@deepankar.online
+Reach out to me at hi@deepankar.online 🤙.
