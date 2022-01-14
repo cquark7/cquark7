@@ -8,4 +8,4 @@ I'm currently in love with Investing and blockchain technology 🤓
 
 Sometimes I do Django and React ⚛️
 
-Reach out to me: https://cquark7.github.io/
+Reach out to me at hi@deepankar.online
