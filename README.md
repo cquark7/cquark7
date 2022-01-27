@@ -8,4 +8,4 @@ I'm currently in love with investing and cybersecurity 🤓.
 
 These days I am dabbling with Hasura (GraphQL), Next.js and Typescript ⚛️.
 
-Reach out to me at hi@deepankar.online 🤙.
+Reach out to me at hi@deepankar.online for discussions and relevant opportunities 🤝.
