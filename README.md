@@ -29,10 +29,6 @@ Hi there, I'm Deepankar 👋
 
 <br />
 
-
-
-<br />
-
 <p align="middle">
   <img align="center" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cquark7&theme=radical" alt="Deepankar's profile details" />
   
@@ -40,17 +36,27 @@ Hi there, I'm Deepankar 👋
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cquark7&theme=radical&hide_border=true" alt="Deepankar's github streak" />
   
+  <div align="middle">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cquark7&theme=radical" alt="Deepankar's Top Languages" />
   
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cquark7&theme=radical&utcOffset=0" alt="Deepankar's Commits" />
+</div>
 </p>
 
+
 <br />
 <br />
 
-<a href="https://twitter.com/geeky_lad/">
-  <img align="right" alt="Deepankar Sharma | Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+<p align="right">
 <a href="https://www.linkedin.com/in/deepankar-sharma/">
-  <img align="right" alt="Deepankar Sharma | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <img alt="Deepankar Sharma | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+ 
+ <a href="https://twitter.com/geeky_lad/">
+  <img alt="Deepankar Sharma | Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+
+<a href="hi@deepankar.online">
+  <img alt="Deepankar Sharma | Email" height="35px" src="https://user-images.githubusercontent.com/29166153/177058853-7d5d6f7a-7053-4b3b-bf15-a03044ff8620.png" /></a>
+</p>
+
 
  
