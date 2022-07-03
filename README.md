@@ -54,7 +54,7 @@ Hi there, I'm Deepankar 👋
  <a href="https://twitter.com/geeky_lad/">
   <img alt="Deepankar Sharma | Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
 
-<a href="hi@deepankar.online">
+<a href="mailto:hi@deepankar.online">
   <img alt="Deepankar Sharma | Email" height="35px" src="https://user-images.githubusercontent.com/29166153/177058853-7d5d6f7a-7053-4b3b-bf15-a03044ff8620.png" /></a>
 </p>
 
