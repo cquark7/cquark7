@@ -1,6 +1,6 @@
 Hi there, I'm Deepankar 👋
 
-:nerd_face: I'm a passionate Full-Stack Engineer from India, specialised in backend development using Python.
+:nerd_face: I'm a passionate Full-Stack Engineer from India, specialised in backend development with Python.
 
 🔐 I create amazing web applications to make the internet a better and more secure place. 
 
