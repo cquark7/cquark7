@@ -33,9 +33,11 @@ Hi there, I'm Deepankar 👋
 
 <br />
 
-
-| <div align="center"><a href="https://github.com/cquark7"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cquark7&theme=radical&count_private=true&include_all_commits=true&show_icons=true" alt="Deepankar's github stats" /></a></div> | <div align="center"><a href="https://github.com/cquark7"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cquark7&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Deepankar's github stats" /></a></div> |
-| ------------- | ------------- |
+<p align="middle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cquark7&theme=radical&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="Deepankar's github stats" />
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cquark7&theme=radical&hide_border=true" alt="Deepankar's github streak" />
+</p>
 
 <br />
 <br />
