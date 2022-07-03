@@ -29,14 +29,20 @@ Hi there, I'm Deepankar 👋
 
 <br />
 
-<div align="center"><a href="https://github.com/cquark7"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cquark7&theme=radical" /></a></div>
+
 
 <br />
 
 <p align="middle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cquark7&theme=radical&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="Deepankar's github stats" />
+  <img align="center" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cquark7&theme=radical" alt="Deepankar's profile details" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cquark7&theme=radical&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Stats" alt="Deepankar's github stats" />
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cquark7&theme=radical&hide_border=true" alt="Deepankar's github streak" />
+  
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cquark7&theme=radical" alt="Deepankar's Top Languages" />
+  
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cquark7&theme=radical&utcOffset=0" alt="Deepankar's Commits" />
 </p>
 
 <br />
