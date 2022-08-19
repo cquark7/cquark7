@@ -4,7 +4,7 @@ Hi there, I'm Deepankar 👋
 
 🔐 I create amazing web applications to make the internet a better and more secure place. 
 
-⚛️ These days I am dabbling with Next.js, Hasura, and Golang.
+⚛️ These days I am dabbling with Golang, System Design and Next.js.
 
 ❤️ When I am not writing code, I try to learn something new and do fun experiments.
 
