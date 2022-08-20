@@ -1,6 +1,6 @@
 Hi there, I'm Deepankar 👋
 
-:nerd_face: I'm a passionate Full-Stack Engineer from India, specialised in backend development with Python.
+:nerd_face: I'm a passionate Full-Stack Engineer from India, specialised in backend development with Python (Django/Flask/FastAPI) and TypeScript (Node.js/Next.js).
 
 🔐 I create amazing web applications to make the internet a better and more secure place. 
 
@@ -8,12 +8,13 @@ Hi there, I'm Deepankar 👋
 
 ❤️ When I am not writing code, I try to learn something new and do fun experiments.
 
-🤝 Reach out to me at hi@deepankar.online for discussions and relevant opportunities.
+🤝 Reach out to me at hello@deepankar.online for discussions and relevant opportunities.
 
 
 <code><img height="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="40" alt="django" src="https://user-images.githubusercontent.com/29166153/177046460-2e2d8dfe-4521-4bc6-a349-3429e74fd2cc.svg"></code>
 <code><img height="40" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></code>
+<code><img height="40" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></code>
 <code><img height="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img height="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
