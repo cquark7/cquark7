@@ -1,6 +1,6 @@
 Hi there, I'm Deepankar 👋
 
-:nerd_face: I'm a passionate Full-Stack Engineer from India, specialised in backend development with Python (Django/Flask/FastAPI) and TypeScript (Node.js/Next.js).
+:nerd_face: I'm a passionate Software Engineer from India, specialised in backend development with Python (Django/Flask/FastAPI) and TypeScript (Node.js/Next.js).
 
 🔐 I create amazing web applications to make the internet a better and more secure place. 
 
