@@ -33,7 +33,7 @@ Hi there, I'm Deepankar 👋
 <p align="middle">
   <img align="center" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cquark7&theme=radical" alt="Deepankar's profile details" />
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cquark7&theme=radical&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Stats" alt="Deepankar's github stats" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cquark7&theme=radical&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Stats" alt="Deepankar's github stats" /> -->
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cquark7&theme=radical&hide_border=true" alt="Deepankar's github streak" />
   
