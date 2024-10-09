@@ -4,7 +4,7 @@ Hi there, I'm Deepankar 👋
 
 🔐 I create amazing web applications to make the internet a better and more secure place. 
 
-⚛️ These days I am dabbling with Golang, System Design and Next.js.
+⚛️ These days I am dabbling with Rust and System Design.
 
 ❤️ When I am not writing code, I try to learn something new and do fun experiments.
 
@@ -17,9 +17,8 @@ Hi there, I'm Deepankar 👋
 <code><img height="40" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></code>
 <code><img height="40" alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg"></code>
 <code><img height="40" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-<code><img height="40" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
 <code><img height="40" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
-<code><img height="40" alt="googlecloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></code>
+<code><img height="40" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"></code>
 <code><img height="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img height="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
