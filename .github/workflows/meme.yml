@@ -9,9 +9,9 @@ on:
   workflow_dispatch:
 
   # Run on every push to the main branch
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   generate:
