@@ -1,0 +1,49 @@
+name: save meme
+
+on:
+  # Run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allows manual trigger
+  workflow_dispatch:
+
+  # Run on every push to the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Fetch a meme and save it in the output branch
+      - name: Fetch meme and save to output branch
+        run: |
+          # Fetch meme from API
+          MEME_JSON=$(curl -s https://meme-api.com/gimme/wholesomememes)
+          MEME_URL=$(echo "$MEME_JSON" | jq -r '.url')
+
+          # Download meme image
+          curl -sL "$MEME_URL" -o meme.png
+
+          # Prepare for commit
+          mkdir -p output
+          mv meme.png output/meme.png
+
+      # Push the meme to the output branch
+      - name: Push meme to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
