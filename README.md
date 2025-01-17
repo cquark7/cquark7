@@ -123,6 +123,29 @@ Hi there, I'm Deepankar 👋
 
 ---
 
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/%7Bcquark7%7D/count.svg" alt="cquark7 :: Visitor's Count" /></a>
+</p>
+
+<div align="center">
+<picture>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cquark7/cquark7/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### ✍️ Random Meme
+
+<picture>
+  <img alt="random-meme" src="https://raw.githubusercontent.com/cquark7/cquark7/memes/meme.png" />
+</picture>
+
+</dev>
+
+<br/>
+
 <p align="middle">
   <img align="center" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cquark7&theme=radical" alt="Deepankar's profile details" />
   
