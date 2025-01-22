@@ -134,15 +134,18 @@ Hi there, I'm Deepankar 👋
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<picture>
+  <img alt="random-meme" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&border=true" />
+</picture>
 
-### ✍️ Random Meme
+### 🤠 Random Meme
 
 <picture>
   <img alt="random-meme" src="https://raw.githubusercontent.com/cquark7/cquark7/memes/meme.png" />
 </picture>
 
 </dev>
+
 
 <br/>
 
