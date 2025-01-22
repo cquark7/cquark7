@@ -25,7 +25,7 @@ jobs:
       - name: Fetch meme and save to output branch
         run: |
           # Fetch meme from API
-          MEME_JSON=$(curl -s https://meme-api.com/gimme/wholesomememes)
+          MEME_JSON=$(curl -s https://meme-api.com/gimme/ProgrammerHumor)
           MEME_URL=$(echo "$MEME_JSON" | jq -r '.url')
 
           # Download meme image
