@@ -8,7 +8,7 @@ Hi there, I'm Deepankar 👋
 
 ❤️ When I am not writing code, I try to learn something new and do fun experiments.
 
-🤝 Reach out to me at hello@deepankar.online for discussions and relevant opportunities.
+🤝 Reach out to me at hello@tivr.dev for discussions and relevant opportunities.
 
 ## 💻 My favorite tools and technologies
 
