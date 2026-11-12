@@ -16,28 +16,28 @@ Hi there, I'm Deepankar 👋
 <table align="center">
     <tr>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="65" />
+            <img src="https://skillicons.dev/icons?i=python" alt="Python" height="65" />
             <br>Python
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" height="65" />
+            <img src="https://skillicons.dev/icons?i=django" alt="Django" height="65" />
             <br>Django
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" height="65" />
+            <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="65" />
             <br>TypeScript
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="65" />
+            <img src="https://skillicons.dev/icons?i=react" alt="React" height="65" />
             <br>React
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" height="65" />
+            <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="65" />
             <br>AWS
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" height="65" />
-            <br>REST
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="REST API" height="65" />
+            <br>REST API
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=graphql" height="65" alt="graphql" />
@@ -58,7 +58,7 @@ Hi there, I'm Deepankar 👋
             <br>Redis
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" height="65" />
+            <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="65" />
             <br>Docker
         </td>
         <td align="center" width="96">
@@ -66,7 +66,7 @@ Hi there, I'm Deepankar 👋
             <br>Tailwind
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" height="65" />
+            <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="65" />
             <br>Github
             </td>
         <td align="center" width="96">
@@ -112,7 +112,7 @@ Hi there, I'm Deepankar 👋
             <br>RaspberryPi
         </td>
 		<td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=markdown" height="65" alt="sqlite" />
+            <img src="https://skillicons.dev/icons?i=markdown" height="65" alt="Markdown" />
             <br>Markdown
         </td>
     </tr>
@@ -124,7 +124,7 @@ Hi there, I'm Deepankar 👋
 ---
 
 <p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/%7Bcquark7%7D/count.svg" alt="cquark7 :: Visitor's Count" /></a>
+<a href="https://github.com/cquark7"><img src="https://komarev.com/ghpvc/?username=cquark7" alt="cquark7 profile views" /></a>
 </p>
 
 <div align="center">
@@ -135,7 +135,7 @@ Hi there, I'm Deepankar 👋
 ### ✍️ Random Dev Quote
 
 <picture>
-  <img alt="random-meme" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&border=true" />
+  <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&border=true" />
 </picture>
 
 ### 🤠 Random Meme
@@ -144,28 +144,28 @@ Hi there, I'm Deepankar 👋
   <img alt="random-meme" src="https://raw.githubusercontent.com/cquark7/cquark7/memes/meme.png" />
 </picture>
 
-</dev>
+</div>
 
 
 <br/>
 
-<p align="middle">
-  <img align="center" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cquark7&theme=radical" alt="Deepankar's profile details" />
+<div align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cquark7&theme=radical" alt="Deepankar's profile details" />
   
-  <div align="middle">
+  <div align="center">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cquark7&theme=radical" alt="Deepankar's Top Languages" />
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cquark7&theme=radical&utcOffset=0" alt="Deepankar's Commits" />
   </div>
-</p>
+</div>
 
 <br />
 <br />
 
 <p align="right">
 <a href="https://www.linkedin.com/in/deepankar-sharma/">
-  <img alt="Deepankar Sharma | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <img alt="Deepankar Sharma | LinkedIn" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
  <a href="https://twitter.com/geeky_lad/">
-  <img alt="Deepankar Sharma | Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
-<a href="mailto:hi@deepankar.online">
-  <img alt="Deepankar Sharma | Email" height="35px" src="https://user-images.githubusercontent.com/29166153/177058853-7d5d6f7a-7053-4b3b-bf15-a03044ff8620.png" /></a>
+  <img alt="Deepankar Sharma | Twitter" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+<a href="mailto:hello@tivr.dev">
+  <img alt="Deepankar Sharma | Email" width="30" height="30" src="https://user-images.githubusercontent.com/29166153/177058853-7d5d6f7a-7053-4b3b-bf15-a03044ff8620.png" /></a>
 </p>
