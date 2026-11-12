@@ -1,171 +1,161 @@
-Hi there, I'm Deepankar 👋
+# Hi there, I'm Deepankar 👋
 
-:nerd_face: I'm a passionate Software Engineer from India, specialised in backend development with Python (Django/Flask/FastAPI) and TypeScript (Node.js/Next.js).
+I'm a software engineer from India. I work on backend systems, data pipelines, and developer tools. I like finding the actual bottleneck, working out whether we need more infrastructure, and simplifying things where we can.
 
-🔐 I create amazing web applications to make the internet a better and more secure place.
+❤️ Outside work: table tennis, badminton, and the occasional internet rabbit hole.
 
-⚛️ These days I am dabbling with Rust and System Design.
+## 🤖 Working with agents
 
-❤️ When I am not writing code, I try to learn something new and do fun experiments.
+I work with coding agents and build tooling around them, including context inspection, local secret redaction, and recovery when integrations fail.
 
-🤝 Reach out to me at hello@tivr.dev for discussions and relevant opportunities.
+Much of that is harness engineering: task scope, context, tool permissions, and feedback from tests. More context can add cost and latency without helping; some steps are better handled by ordinary code than another model call.
 
-## 💻 My favorite tools and technologies
+Agents can handle more implementation, but I still need to decide whether the design fits, how it should run, and what the change could break.
 
-<div style="display: flex; align-items: flex-start; align: center">
+Shipping faster makes regression checks more important. I keep changes small enough to review, test existing behavior and failure paths, and check generated tests as well as generated code—they can share the same wrong assumption. For bug fixes, I want the regression test to fail on the old code, not just pass on the fix.
+
+## 🧰 From my workbench to yours
+
+**[tivr.dev](https://tivr.dev)** is my collection of browser tools for those small, everyday tasks: formatting JSON, comparing text, querying Parquet files, or cleaning up an image.
+
+The tools process your inputs in your browser, so they stay on your device. No signup, no ads, no uploading a file just to get a quick thing done.
+
+**[Open the workbench →](https://tivr.dev)**
+
+## 💻 Tools I reach for
+
 <table align="center">
-    <tr>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=python" alt="Python" height="65" />
-            <br>Python
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=django" alt="Django" height="65" />
-            <br>Django
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="65" />
-            <br>TypeScript
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=react" alt="React" height="65" />
-            <br>React
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="65" />
-            <br>AWS
-        </td>
-        <td align="center" width="96">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="REST API" height="65" />
-            <br>REST API
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=graphql" height="65" alt="graphql" />
-            <br>GraphQL
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=postgres" height="65" alt="PostgreSQL" />
-            <br>PostgreSQL
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-        <br>Nodejs
-		 </td>
-        <td align="center" width="96">
-                <img height="65" alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg">
-            <br>Redis
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="65" />
-            <br>Docker
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" height="65" alt="tailwind" />
-            <br>Tailwind
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="65" />
-            <br>Github
-            </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="vscode" />
-            <br>VSCode
-        </td>
-        <td align="center" width="96">
-                <img height="65" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-            <br>Postman
-        </td>
-        <td align="center" width="96">
-                <img height="65" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-            <br>Linux
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=rust" height="65" alt="rust" />
-            <br>Rust
-        </td>
-		<td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=fastapi" height="65" alt="FastAPI" />
-            <br>FastAPI
-        </td>
-		<td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nextjs" height="65" alt="NextJS" />
-            <br>NextJS
-        </td>
-		<td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=vite" height="65" alt="vite" />
-            <br>Vite
-        </td>
-		<td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nginx" height="65" alt="nginx" />
-            <br>NGINX
-        </td>
-		<td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=sqlite" height="65" alt="sqlite" />
-            <br>SQLite
-        </td>
-		<td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=raspberrypi" height="65" alt="RaspberryPi" />
-            <br>RaspberryPi
-        </td>
-		<td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=markdown" height="65" alt="Markdown" />
-            <br>Markdown
-        </td>
-    </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="REST API" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="65" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="Redis" height="65" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="65" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="65" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="65" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="65" />
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="65" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="65" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="65" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="65" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" height="65" />
+      <br>NGINX
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="65" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" height="65" />
+      <br>Raspberry Pi
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="65" />
+      <br>Markdown
+    </td>
+  </tr>
 </table>
+
+---
+
+<p align="center">
+  <a href="https://github.com/cquark7"><img src="https://komarev.com/ghpvc/?username=cquark7" alt="cquark7 profile views" /></a>
+</p>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cquark7/cquark7/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/cquark7/cquark7/output/github-contribution-grid-snake.svg" alt="A snake making its way through my GitHub contributions" />
+</picture>
+
+### ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&border=true" alt="Random developer quote" />
+
+### 🤠 Random Meme
+
+<img src="https://raw.githubusercontent.com/cquark7/cquark7/memes/meme.png" alt="A programming meme, refreshed daily" width="500" />
+
 <br><br>
 
 </div>
 
 ---
 
-<p align="center">
-<a href="https://github.com/cquark7"><img src="https://komarev.com/ghpvc/?username=cquark7" alt="cquark7 profile views" /></a>
-</p>
+🤝 Always happy to talk about system design, infrastructure trade-offs, getting more out of agents, or your latest rabbit hole.
 
-<div align="center">
-<picture>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cquark7/cquark7/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-### ✍️ Random Dev Quote
-
-<picture>
-  <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&border=true" />
-</picture>
-
-### 🤠 Random Meme
-
-<picture>
-  <img alt="random-meme" src="https://raw.githubusercontent.com/cquark7/cquark7/memes/meme.png" />
-</picture>
-
-</div>
-
-
-<br/>
-
-<div align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cquark7&theme=radical" alt="Deepankar's profile details" />
-  
-  <div align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cquark7&theme=radical" alt="Deepankar's Top Languages" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cquark7&theme=radical&utcOffset=0" alt="Deepankar's Commits" />
-  </div>
-</div>
-
-<br />
-<br />
-
-<p align="right">
-<a href="https://www.linkedin.com/in/deepankar-sharma/">
-  <img alt="Deepankar Sharma | LinkedIn" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
- <a href="https://twitter.com/geeky_lad/">
-  <img alt="Deepankar Sharma | Twitter" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
-<a href="mailto:hello@tivr.dev">
-  <img alt="Deepankar Sharma | Email" width="30" height="30" src="https://user-images.githubusercontent.com/29166153/177058853-7d5d6f7a-7053-4b3b-bf15-a03044ff8620.png" /></a>
-</p>
+[Website](https://me.tivr.dev) · [LinkedIn](https://www.linkedin.com/in/deepankar-sharma/) · [Twitter](https://twitter.com/geeky_lad/) · [Email](mailto:hello@tivr.dev)
